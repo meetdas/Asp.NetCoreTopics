@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{ECA89D80-10D5-4999-8561-633936D4C77F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCondition", "SwitchCondition\SwitchCondition.csproj", "{FBE6AF5D-6600-45F1-B500-CC662947B880}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ECA89D80-10D5-4999-8561-633936D4C77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECA89D80-10D5-4999-8561-633936D4C77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECA89D80-10D5-4999-8561-633936D4C77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
