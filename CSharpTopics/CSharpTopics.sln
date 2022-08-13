@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymusType", "AnonymusTyp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicType", "DynamicType\DynamicType.csproj", "{1EBA6572-A4B9-42DA-97CD-2811F27EAD71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{13458CFA-75B1-46D3-B2D2-322B58FB7649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{ECA89D80-10D5-4999-8561-633936D4C77F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1EBA6572-A4B9-42DA-97CD-2811F27EAD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBA6572-A4B9-42DA-97CD-2811F27EAD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBA6572-A4B9-42DA-97CD-2811F27EAD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13458CFA-75B1-46D3-B2D2-322B58FB7649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13458CFA-75B1-46D3-B2D2-322B58FB7649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13458CFA-75B1-46D3-B2D2-322B58FB7649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13458CFA-75B1-46D3-B2D2-322B58FB7649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA89D80-10D5-4999-8561-633936D4C77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA89D80-10D5-4999-8561-633936D4C77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA89D80-10D5-4999-8561-633936D4C77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA89D80-10D5-4999-8561-633936D4C77F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
