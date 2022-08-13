@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitType", "ImplicitType\ImplicitType.csproj", "{6A68B453-0422-48F9-8244-2220ABF67763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitType", "ImplicitType\ImplicitType.csproj", "{6A68B453-0422-48F9-8244-2220ABF67763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymusType", "AnonymusType\AnonymusType.csproj", "{E66B6AA7-578B-45A3-9A1D-E816253B15CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6A68B453-0422-48F9-8244-2220ABF67763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A68B453-0422-48F9-8244-2220ABF67763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A68B453-0422-48F9-8244-2220ABF67763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66B6AA7-578B-45A3-9A1D-E816253B15CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66B6AA7-578B-45A3-9A1D-E816253B15CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66B6AA7-578B-45A3-9A1D-E816253B15CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66B6AA7-578B-45A3-9A1D-E816253B15CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
