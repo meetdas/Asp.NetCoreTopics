@@ -1,0 +1,15 @@
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\bin\Debug\net6.0\ImplicitType.exe
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\bin\Debug\net6.0\ImplicitType.deps.json
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\bin\Debug\net6.0\ImplicitType.runtimeconfig.json
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\bin\Debug\net6.0\ImplicitType.dll
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\bin\Debug\net6.0\ref\ImplicitType.dll
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\bin\Debug\net6.0\ImplicitType.pdb
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.csproj.AssemblyReference.cache
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.AssemblyInfoInputs.cache
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.AssemblyInfo.cs
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.csproj.CoreCompileInputs.cache
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.dll
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ref\ImplicitType.dll
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.pdb
+D:\Asp.NetCoreTopics\CSharpTopics\ImplicitType\obj\Debug\net6.0\ImplicitType.genruntimeconfig.cache
