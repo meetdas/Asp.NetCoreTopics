@@ -35,7 +35,17 @@
       "ProjectGuid": "fbe6af5d-6600-45f1-b500-cc662947b880",
       "DisplayName": "SwitchCondition",
       "ColorIndex": 6
+    },
+    "9d5c3aa3-3480-4bde-876b-112551330159": {
+      "ProjectGuid": "9d5c3aa3-3480-4bde-876b-112551330159",
+      "DisplayName": "Typrs",
+      "ColorIndex": 7
+    },
+    "c08079d1-998d-4adf-93ac-3fbb4851233b": {
+      "ProjectGuid": "c08079d1-998d-4adf-93ac-3fbb4851233b",
+      "DisplayName": "Dictonary",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
