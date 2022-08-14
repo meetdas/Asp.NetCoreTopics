@@ -5,15 +5,17 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitType", "ImplicitType\ImplicitType.csproj", "{6A68B453-0422-48F9-8244-2220ABF67763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymusType", "AnonymusType\AnonymusType.csproj", "{E66B6AA7-578B-45A3-9A1D-E816253B15CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymusType", "AnonymusType\AnonymusType.csproj", "{E66B6AA7-578B-45A3-9A1D-E816253B15CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicType", "DynamicType\DynamicType.csproj", "{1EBA6572-A4B9-42DA-97CD-2811F27EAD71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicType", "DynamicType\DynamicType.csproj", "{1EBA6572-A4B9-42DA-97CD-2811F27EAD71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{13458CFA-75B1-46D3-B2D2-322B58FB7649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{13458CFA-75B1-46D3-B2D2-322B58FB7649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{ECA89D80-10D5-4999-8561-633936D4C77F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{ECA89D80-10D5-4999-8561-633936D4C77F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCondition", "SwitchCondition\SwitchCondition.csproj", "{FBE6AF5D-6600-45F1-B500-CC662947B880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCondition", "SwitchCondition\SwitchCondition.csproj", "{FBE6AF5D-6600-45F1-B500-CC662947B880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typrs", "Typrs\Typrs.csproj", "{9D5C3AA3-3480-4BDE-876B-112551330159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE6AF5D-6600-45F1-B500-CC662947B880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5C3AA3-3480-4BDE-876B-112551330159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5C3AA3-3480-4BDE-876B-112551330159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5C3AA3-3480-4BDE-876B-112551330159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5C3AA3-3480-4BDE-876B-112551330159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,7 +5,37 @@
       "ProjectGuid": "6a68b453-0422-48f9-8244-2220abf67763",
       "DisplayName": "ImplicitType",
       "ColorIndex": 0
+    },
+    "e66b6aa7-578b-45a3-9a1d-e816253b15ca": {
+      "ProjectGuid": "e66b6aa7-578b-45a3-9a1d-e816253b15ca",
+      "DisplayName": "AnonymusType",
+      "ColorIndex": 1
+    },
+    "1eba6572-a4b9-42da-97cd-2811f27ead71": {
+      "ProjectGuid": "1eba6572-a4b9-42da-97cd-2811f27ead71",
+      "DisplayName": "DynamicType",
+      "ColorIndex": 2
+    },
+    "78f6d746-b83f-4e44-84ab-1e3af60d24b7": {
+      "ProjectGuid": "78f6d746-b83f-4e44-84ab-1e3af60d24b7",
+      "DisplayName": "Interface",
+      "ColorIndex": 3
+    },
+    "13458cfa-75b1-46d3-b2d2-322b58fb7649": {
+      "ProjectGuid": "13458cfa-75b1-46d3-b2d2-322b58fb7649",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 4
+    },
+    "eca89d80-10d5-4999-8561-633936d4c77f": {
+      "ProjectGuid": "eca89d80-10d5-4999-8561-633936d4c77f",
+      "DisplayName": "Operators",
+      "ColorIndex": 5
+    },
+    "fbe6af5d-6600-45f1-b500-cc662947b880": {
+      "ProjectGuid": "fbe6af5d-6600-45f1-b500-cc662947b880",
+      "DisplayName": "SwitchCondition",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }
